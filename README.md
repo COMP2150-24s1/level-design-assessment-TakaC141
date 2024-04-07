@@ -47,12 +47,12 @@ Once dropped down they gather a checkpoint audio cue to alert that there is dang
 
 Avoiding the chomper they are introduced to with a diverting path, if the player takes this path they are rewarded with a health cache which encourages the need for exploration. 
 
-![Passable Platform, Checkpoints, Checkpoints, Chompers](DocImages/SB 2.1.png)
+![Passable Platform, Checkpoints, Checkpoints, Chompers](DocImages/SB2.1.png)
 
 ### 2.2. Spikes and Moving Platforms
 the player will notice a moving platform with a floor full of purple spikes, once on the moving platform. This introduces to the player that can platforms may move and the dangers of spikes
 
-![Moving Platforms and Spikes](DocImages/SB 2.2.png)
+![Moving Platforms and Spikes](DocImages/SB2.2.png)
 
 
 ### 2.3. Keys and KeyDoor
