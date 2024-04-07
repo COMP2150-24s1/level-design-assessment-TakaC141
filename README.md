@@ -37,9 +37,6 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.0 Note
-The majority of the core gameplay elements and mechanics are introduced in section 1 however the gun is withheld as in the 2D gamekit example, the player may rely on the gun more leaving little room for the player to know the mechanics of the melee weapon within combat. This is why the level introduces the gun as a reward later on and its mechanics that demonstrate its effectiveness in puzzles and combat. 
-
 ### 2.1. Passthrough Platforms, Checkpoints, Chompers and Health Kit
 Once the player enters the level, they are introduced with a passthrough platform to enter the main dungeon. This introduces them to the view of what they can pass through and what's solid.
 
@@ -58,22 +55,30 @@ the player will notice a moving platform with a floor full of purple spikes, onc
 ### 2.3. Keys and KeyDoor
 The player’s eye catches the Key and when the key door visually changes, that hints at the player’s objective.
 
+![Key and Door](DocImages/SB2.3.png)
+
 ### 2.4. Acid and Interactable Box
 After crossing they are introduced to acid and a box blocking the main path, the player is introduced to both the pushing mechanics of the box and the box’s ability to act as a platform on acid along with a small platforming section
+
+![Acid and Box](DocImages/SB2.4.png)
 
 ### 2.5. Weapon Pickup (Staff), Destructive object and Combat System
 After this the player is introduced to the melee weapon pickup and its mechanic to break certain  pillars and walls. After this the player is reintroduced to the chompers which introduces the melee combat system
 
-### 2.6. One Use Switch, PressurePad and TriggerDoor
-A small easy puzzle that shows interactables such as the bridge and interactable objects after completing the puzzle the door opens 
+![Melee Pickup, Eestructive Object and Combat Systen](DocImages/SB2.5.png)
 
-### 2.7. Spitters
+### 2.6. One Use Switch, PressurePad and TriggerDoor
+A small easy puzzle that shows interactables such as the bridge and interactable objects after completing the puzzle the door opens, this is built upon in later section and prepares the Player.
+
+![Switch, PressurePad and TriggerDoor](DocImages/SB2.6.png)
+
+### 2.7.Spitters and Weapon Pickup (Gun)
 the player is introduced to a new enemy type known as the spitter and can’t reach with its melee weapon so is forced to dodge past them
 
-### 2.8. Weapon Pickup (Gun)
 the player is introduced to the gun and a far away switch which frees the player and allows them to dispatch the spitters introduced earlier.
+The majority of the core gameplay elements and mechanics are introduced in section 1 however the gun is withheld as in the 2D gamekit example, the player may rely on the gun more, during combat leaving little room for the player to know the mechanics of the melee weapon within combat. This is why the level introduces the gun as a reward later on and its mechanics that demonstrate its effectiveness in puzzles and combat. 
 
-
+![Spitters and GunPickup](DocImages/SB2.7.png)
 
 
 
