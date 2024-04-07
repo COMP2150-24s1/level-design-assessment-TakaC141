@@ -37,27 +37,45 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.0 Note
+The majority of the core gameplay elements and mechanics are introduced in section 1 however the gun is withheld as in the 2D gamekit example, the player may rely on the gun more leaving little room for the player to know the mechanics of the melee weapon within combat. This is why the level introduces the gun as a reward later on and its mechanics that demonstrate its effectiveness in puzzles and combat. 
 
-### 2.2. Checkpoints
+### 2.1. Passthrough Platforms, Checkpoints, Chompers and Health Kit
+Once the player enters the level, they are introduced with a passthrough platform to enter the main dungeon. This introduces them to the view of what they can pass through and what's solid.
 
-### 2.3. Chompers
+Once dropped down they gather a checkpoint audio cue to alert that there is danger nearby, this is when they’re introduced to their first enemy chomper. The player cannot damage the enemy at this point which introduces the platforming element, allowing the player to manoeuvre themselves around the chomper to avoid damage.
 
-### 2.4. Health Pickups
+Avoiding the chomper they are introduced to with a diverting path, if the player takes this path they are rewarded with a health cache which encourages the need for exploration. 
 
-### 2.5. Keys
+![Passable Platform, Checkpoints, Checkpoints, Chompers](DocImages/SB 2.1.png)
 
-### 2.6. Moving Platforms
+### 2.2. Spikes and Moving Platforms
+the player will notice a moving platform with a floor full of purple spikes, once on the moving platform. This introduces to the player that can platforms may move and the dangers of spikes
 
-### 2.7. Passthrough Platforms
+![Moving Platforms and Spikes](DocImages/SB 2.2.png)
 
-### 2.8. Spikes
 
-### 2.9. Spitters
+### 2.3. Keys and KeyDoor
+The player’s eye catches the Key and when the key door visually changes, that hints at the player’s objective.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.4. Acid and Interactable Box
+After crossing they are introduced to acid and a box blocking the main path, the player is introduced to both the pushing mechanics of the box and the box’s ability to act as a platform on acid along with a small platforming section
 
-### 2.11. Weapon Pickup (Staff)
+### 2.5. Weapon Pickup (Staff), Destructive object and Combat System
+After this the player is introduced to the melee weapon pickup and its mechanic to break certain  pillars and walls. After this the player is reintroduced to the chompers which introduces the melee combat system
+
+### 2.6. One Use Switch, PressurePad and TriggerDoor
+A small easy puzzle that shows interactables such as the bridge and interactable objects after completing the puzzle the door opens 
+
+### 2.7. Spitters
+the player is introduced to a new enemy type known as the spitter and can’t reach with its melee weapon so is forced to dodge past them
+
+### 2.8. Weapon Pickup (Gun)
+the player is introduced to the gun and a far away switch which frees the player and allows them to dispatch the spitters introduced earlier.
+
+
+
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
