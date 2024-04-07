@@ -102,11 +102,17 @@ No additional words are necessary for this section (any words should only be wit
 
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+During the development of each section, several changes are made to enhance the player’s experience based on continuous playtesting and observations. There were many changes made through playtesting such as platform placement to make a jump easier or harder, or enemy placement to force the player an intensive experience. Most of these themes would be less prominent in the first version of the level.
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+One example is the changes to section one, to make it not only introduce the main mechanics but a small combination of them too, such as the puzzle solving segment which introduces enemy clearing to make a puzzle easier to solve. This is built upon on a later section initially however didn’t show the mechanics of the single use switches and pressure pad. The section was initially linear so the placement of health kits in outcoves helps encourage the need for exploration to the player as health kits are rarer in later sections. The key door and key in section 1 was also changed placements to reduce the repetitive half of section 1 but backwards. 
 
-During the development of each section, several ch
+Section one’s spike area was changed to also incorporate a moving platform as well as a wall to discourage the use of invisibility frames on the spike to bypass that area.
+
+Section 2’s layout was minorly changed to be more open with diverting pathways, this encourages the player to explore the sections of the map and helps emphasis on enemy clearing before puzzles.
+
+There were changes to the pathways throughout section 3, initially the plan was after the player completes the puzzle in the first half, the player uses the crates throughout the puzzle to get to the door for the next second half of the section, a change was made for the player to move vertical above the door to bypass some of the precise platforming. This adds a non linear approach to an enemy dense section and allows a different approach.
+Overall, these iterative changes both improve on the flow and pacing of the level and enhance the gameplay aspects for the level, through continuous iterations to the level, it will create a more engaging and satisfying player experience.
+
 
 
 
